@@ -6,8 +6,38 @@
 // Siga os comentários para implementar cada parte do desafio.
 //Teste larissa
 
-int main() {
-    printf("Desafio Super Trunfo!\n");
+   int main() {
+   int População;
+   int Pontos;
+   float Área;
+   float PIB;
+   char Estado;
+   char Código [50];
+   char Nome [30];
+
+   printf("Digite a População\n");
+   scanf("%d", &População);
+   printf("Digite seus Pontos Turísticos\n");
+   scanf("%d", &Pontos);
+   printf("Digite a Área em Km\n");
+   scanf("%f", &Área);
+   printf("Digite o PIB\n");
+   scanf("%f", &PIB);
+   printf("Digite o Estado\n");
+   scanf("%c", &Estado);
+   printf("Digite o Código\n");
+   scanf("%c", &Código);
+   printf("Digite o nome da cidade");
+   scanf("%c", &Nome);
+
+
+
+
+
+
+
+
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
