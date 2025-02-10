@@ -27,7 +27,7 @@
    scanf("%c", &Estado);
    printf("Digite o Código\n");
    scanf("%c", &Código);
-   printf("Digite o Nome");
+   printf("Digite o Nome\n");
    scanf("%c", &Nome);
 
 
