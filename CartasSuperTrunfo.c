@@ -22,6 +22,12 @@
    printf("Digite o Nome\n");
    scanf("%c", &Nome);
 
+   printf("Populacao: %d - Pontos: %d", Populacao, Pontos);
+   printf("Area: %f - PIB: %f", Area, PIB);
+   printf("Estado: %c - Codigo: %c", Estado, Codigo);
+   printf("Nome: %c", Nome);
+
+
    return 0;
 
 
