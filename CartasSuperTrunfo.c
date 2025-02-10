@@ -17,9 +17,9 @@
 
    printf("Digite a População\n");
    scanf("%d", &População);
-   printf("Digite seus Pontos Turísticos\n");
+   printf("Digite seus Pontos\n");
    scanf("%d", &Pontos);
-   printf("Digite a Área em Km\n");
+   printf("Digite a Área\n");
    scanf("%f", &Área);
    printf("Digite o PIB\n");
    scanf("%f", &PIB);
@@ -27,7 +27,7 @@
    scanf("%c", &Estado);
    printf("Digite o Código\n");
    scanf("%c", &Código);
-   printf("Digite o nome da cidade");
+   printf("Digite o Nome");
    scanf("%c", &Nome);
 
 
