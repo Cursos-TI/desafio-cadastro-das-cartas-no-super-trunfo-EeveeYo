@@ -86,7 +86,7 @@
    printf("PIB2:%f\n",PIB2);
    printf("Pontos Turisticos2:%d\n",PontosTuristicos2);
 
-   
+   return 0;
 
 
 }
