@@ -5,7 +5,7 @@
    
    //Váriaveis
 
-   char Estado[30];
+   char Estado[1];
    char Codigo[3];
    char Cidade[50];
    int Populacao;
@@ -13,7 +13,7 @@
    float PIB;
    int PontosTuristicos;
 
-   char Estado2[30];
+   char Estado2[1];
    char Codigo2[3];
    char Cidade2[50];
    int Populacao2;
