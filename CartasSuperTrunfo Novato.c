@@ -26,7 +26,7 @@
 
    //Carta01 Estado A
 
-   printf ("Digite o nome  do estado: \n");
+   printf ("Digite a letra do estado: \n");
    scanf("%s",Estado);
 
    printf("Digite o código da carta: \n");
@@ -57,7 +57,7 @@
 
    //Carta02 Estado B
 
-   printf("Digite o nome do estado2: \n");
+   printf("Digite a letra do estado2: \n");
    scanf("%s",Estado2);
 
    printf("Digite o código da carta2: \n");
