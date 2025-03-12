@@ -109,7 +109,7 @@
    printf("Cidade2:%s\n",Cidade2);
    printf("Populacao2:%d\n",Populacao2);
    printf("Area em Km2:%f\n",AreaKm2);
-   printf("PIB2:%f\n",PIB2);
+   printf("PIB2:%.2f bilhões de reais\n",PIB2);
    printf("Pontos Turisticos2:%d\n",PontosTuristicos2);
    printf("Densidade Populacional2: %.2f hab/km²\n", DensidadePopulacional2);
    printf("PIBPerCapita : %.2f reais\n", PIBperCapita);
