@@ -40,7 +40,7 @@
    printf("Digite a população: \n");
    scanf("%d", &Populacao);
 
-   printf("Digite a área em Km: \n");
+   printf("Digite a área em Km²: \n");
    scanf("%f", &AreaKm);
 
    printf("Digite o PIB: \n");
@@ -54,7 +54,7 @@
    printf("Cidade:%s\n",Cidade);
    printf("Populacao:%d\n",Populacao);
    printf("Area em km:%f\n", AreaKm);
-   printf("PIB:%f\n",PIB);
+   printf("PIB:%f \n",PIB);
    printf("Pontos Turisticos:%d\n",PontosTuristicos);
 
    //Carta02 Estado B
@@ -68,10 +68,10 @@
    printf ("Digite o nome da cidade2: \n");
    scanf("%s",Cidade2);
 
-   printf("Digite a população: \n");
+   printf("Digite a população2: \n");
    scanf("%d",&Populacao2);
 
-   printf("Digite a área em Km2: \n");
+   printf("Digite a área em Km²2: \n");
    scanf("%f",&AreaKm2);
 
    printf("Digite o PIB2: \n");
@@ -84,7 +84,7 @@
    printf("Codigo2:%s\n",Codigo2);
    printf("Cidade2:%s\n",Cidade2);
    printf("Populacao2:%d\n",Populacao2);
-   printf("Area em Km22:%f\n",AreaKm2);
+   printf("Area em Km2:%f\n",AreaKm2);
    printf("PIB2:%f\n",PIB2);
    printf("Pontos Turisticos2:%d\n",PontosTuristicos2);
 
