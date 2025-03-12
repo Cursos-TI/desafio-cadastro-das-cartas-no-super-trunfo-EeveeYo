@@ -3,7 +3,7 @@
 
    int main() {
    
-   //Váriaveis
+   //Váriaveis carta 01
 
    char Estado[1];
    char Codigo[3];
@@ -12,6 +12,8 @@
    float AreaKm;
    float PIB;
    int PontosTuristicos;
+
+   //Váriaveis carta 02
 
    char Estado2[1];
    char Codigo2[3];
