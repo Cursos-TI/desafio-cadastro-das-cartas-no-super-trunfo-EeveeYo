@@ -27,7 +27,8 @@
    //Entrada de dados
 
    //Carta01 Estado A
-
+   
+   printf("\n*** Carta 01 ***\n");
    printf ("Digite a letra do estado: \n");
    scanf("%s",Estado);
 
@@ -58,7 +59,8 @@
    printf("Pontos Turisticos:%d\n",PontosTuristicos);
 
    //Carta02 Estado B
-
+   
+   printf("\n*** Carta 02 ***\n");
    printf("Digite a letra do estado2: \n");
    scanf("%s",Estado2);
 
