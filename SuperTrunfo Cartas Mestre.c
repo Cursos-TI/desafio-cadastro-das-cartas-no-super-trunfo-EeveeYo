@@ -126,9 +126,17 @@
 
    //Comparação das cartas
 
-   if printf("Populacao > Populacao2 %f\n", Populacao > Populacao2);
+   if (condition)
+   {
+      /* code */
+   }
+    ("Populacao > Populacao2 %f\n", Populacao > Populacao2);
    //resultado da comparação Populacao > Populacao2
-   printf ("Carta 01 venceu!\n"); else
+   printf ("Carta 01 venceu!\n"); 
+   {
+      /* code */
+   }
+   
    printf("Carta 02 venceu!\n");
 
 
@@ -136,39 +144,39 @@
 
     if printf("AreaKm > AreaKm2 %f\n", AreaKm > AreaKm2);
     //Resultado da comparação AreaKm > AreaKm2
-    printf ("Carta 01 venceu!\n"); else
+    printf ("Carta 01 venceu!\n"); 
     printf("Carta 02 venceu!\n");
 
 
 
    if printf("PIB > PIB2 %f\n",PIB > PIB2);
    //Resultado da comparação PIB > PIB2
-   printf ("Carta 01 venceu!\n"); else
+   printf ("Carta 01 venceu!\n"); 
    printf("Carta 02 venceu!\n");
 
 
    if printf("Pontos Turisticos > PontosTuristicos2 %f\n",PontosTuristicos > PontosTuristicos2);
    //Resultado da comparação PontosTuristicos > Pontos Turisticos2
-   printf ("Carta 01 venceu!\n"); else
+   printf ("Carta 01 venceu!\n"); 
    printf("Carta 02 venceu!\n");
    
 
 
    if printf("DensidadePopulacional > DensidadePopulacional2 %f\n",DensidadePopulacional > DensidadePopulacional2);
    //Resultado da comparação DensidadePopulacional > DensidadePopulacional2
-   printf ("Carta 01 venceu!\n"); else
+   printf ("Carta 01 venceu!\n"); 
    printf("Carta 02 venceu!\n");
 
 
    if printf("PIBPerCapita > PIBPerCapita2 %f\n",PIBperCapita > PIBperCapita2);
    //Resultado da comparação PIBPerCapita > PIBPerCapita2
-   printf ("Carta 01 venceu!\n"); else
+   printf ("Carta 01 venceu!\n"); 
    printf("Carta 02 venceu!\n");
 
 
    if printf("SuperPoder > SuperPoder2",SuperPoder > SuperPoder2);
    //Resultado da comparação SuperPoder > SuperPoder2
-   printf ("Carta 01 venceu!\n"); else
+   printf ("Carta 01 venceu!\n"); 
    printf("Carta 02 venceu!\n");
 
 
@@ -178,3 +186,4 @@
 
 
 return 0;
+}
