@@ -50,13 +50,13 @@
    printf ("Digite os pontos turísticos: \n");
    scanf("%d", &PontosTuristicos);
 
-   printf("Estado:%s\n",Estado);
-   printf("Codigo:%s\n",Codigo);
-   printf("Cidade:%s\n",Cidade);
-   printf("Populacao:%d\n",Populacao);
-   printf("Area em km:%.2f\n", AreaKm);
-   printf("PIB:%.2f bilhões de reais \n",PIB);
-   printf("Pontos Turisticos:%d\n",PontosTuristicos);
+   printf("Estado: %s\n",Estado);
+   printf("Codigo: %s\n",Codigo);
+   printf("Cidade: %s\n",Cidade);
+   printf("Populacao: %d\n",Populacao);
+   printf("Area em km: %.2f\n", AreaKm);
+   printf("PIB: %.2f bilhões de reais \n",PIB);
+   printf("Pontos Turisticos: %d\n",PontosTuristicos);
 
    //Carta02 Estado B
    
@@ -82,13 +82,13 @@
    printf("Digite os pontos turisticos2: \n");
    scanf("%d",&PontosTuristicos2);
 
-   printf("Estado2:%s\n",Estado2);
-   printf("Codigo2:%s\n",Codigo2);
-   printf("Cidade2:%s\n",Cidade2);
-   printf("Populacao2:%d\n",Populacao2);
-   printf("Area em Km2:%.2f\n",AreaKm2);
-   printf("PIB2:%.2f bilhões de reais\n",PIB2);
-   printf("Pontos Turisticos2:%d\n",PontosTuristicos2);
+   printf("Estado2: %s\n",Estado2);
+   printf("Codigo2: %s\n",Codigo2);
+   printf("Cidade2: %s\n",Cidade2);
+   printf("Populacao2: %d\n",Populacao2);
+   printf("Area em Km2: %.2f\n",AreaKm2);
+   printf("PIB2: %.2f bilhões de reais\n",PIB2);
+   printf("Pontos Turisticos2: %d\n",PontosTuristicos2);
 
    return 0;
 
