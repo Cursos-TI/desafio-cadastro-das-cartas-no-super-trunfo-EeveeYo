@@ -63,13 +63,13 @@
    PIBperCapita = (PIB * 1000000000)/ Populacao;
 
 
-   printf("Estado:%s\n",Estado);
-   printf("Codigo:%s\n",Codigo);
-   printf("Cidade:%s\n",Cidade);
-   printf("Populacao:%d\n",Populacao);
-   printf("Area em km²:%.2f\n", AreaKm);
+   printf("Estado: %s\n",Estado);
+   printf("Codigo: %s\n",Codigo);
+   printf("Cidade: %s\n",Cidade);
+   printf("Populacao: %d\n",Populacao);
+   printf("Area em km²: %.2f\n", AreaKm);
    printf("PIB:%.2f bilhões de reais\n",PIB);
-   printf("Pontos Turisticos:%d\n",PontosTuristicos);
+   printf("Pontos Turisticos: %d\n",PontosTuristicos);
    printf("Densidade Populacional: %.2f hab/km2 \n", DensidadePopulacional);
    printf("PIBPerCapita : %.2f reais\n", PIBperCapita);
     
@@ -106,13 +106,13 @@
 
 
 
-   printf("Estado2:%s\n",Estado2);
-   printf("Codigo2:%s\n",Codigo2);
-   printf("Cidade2:%s\n",Cidade2);
-   printf("Populacao2:%d\n",Populacao2);
-   printf("Area em Km2:%f\n",AreaKm2);
-   printf("PIB2:%.2f bilhões de reais\n",PIB2);
-   printf("Pontos Turisticos2:%d\n",PontosTuristicos2);
+   printf("Estado2: %s\n",Estado2);
+   printf("Codigo2: %s\n",Codigo2);
+   printf("Cidade2: %s\n",Cidade2);
+   printf("Populacao2: %d\n",Populacao2);
+   printf("Area em Km2: %f\n",AreaKm2);
+   printf("PIB2: %.2f bilhões de reais\n",PIB2);
+   printf("Pontos Turisticos2: %d\n",PontosTuristicos2);
    printf("Densidade Populacional2: %.2f hab/km²\n", DensidadePopulacional2);
    printf("PIBPerCapita : %.2f reais\n", PIBperCapita);
 
