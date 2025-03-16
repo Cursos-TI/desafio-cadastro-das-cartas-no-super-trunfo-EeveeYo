@@ -67,7 +67,7 @@
 
    DensidadePopulacional = Populacao / AreaKm;
    PIBperCapita = (PIB * 1000000000)/ Populacao;
-   SuperPoder = (Populacao + AreaKm + PIB + PontosTuristicos + PIBperCapita + 1/ DensidadePopulacional);
+   SuperPoder = (Populacao + AreaKm + PIB + PontosTuristicos + PIBperCapita + 1 / DensidadePopulacional);
 
 
    printf("Estado: %s\n",Estado);
@@ -110,7 +110,7 @@
 
     DensidadePopulacional2 = Populacao2 / AreaKm2;
     PIBperCapita2 = (PIB2 * 1000000000)/ Populacao2;
-    SuperPoder2 = (Populacao2 + AreaKm2 + PIB2 + PontosTuristicos2 + PIBperCapita2 + 1/ DensidadePopulacional2);
+    SuperPoder2 = (Populacao2 + AreaKm2 + PIB2 + PontosTuristicos2 + PIBperCapita2 + 1 / DensidadePopulacional2);
 
 
 
